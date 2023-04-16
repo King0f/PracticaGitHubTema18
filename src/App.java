@@ -3,5 +3,6 @@ public class App {
         System.out.println("v0.1");
         System.out.println("develop 2");
         System.out.println("hotfix");
+        System.out.println("DEVELOP FEATURE 4");
     }
 }
