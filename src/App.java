@@ -4,5 +4,6 @@ public class App {
         System.out.println("develop 2");
         System.out.println("hotfix");
         System.out.println("DEVELOP FEATURE 4");
+        System.out.println("RELEASE 1");
     }
 }
